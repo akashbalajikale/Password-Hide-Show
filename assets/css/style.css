@@ -1,0 +1,11 @@
+.box{
+    margin: 200px auto;
+    border-radius: 5px !important;
+}
+body{
+    background-color: #250057;
+}
+ 
+ .eye{
+    cursor: pointer;
+ }
